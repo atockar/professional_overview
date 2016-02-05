@@ -1,0 +1,59 @@
+{"name": "Planner", "children":[{"name": "Study", "children":[
+{"name": "Doing", "children":[
+{"name": "Kaggle", "children":[
+{"name": "Street signs? Whales?", "priority":2},
+{"name": "AI?", "priority":9}]},
+{"name": "Keras intro", "priority":2}]},
+{"name": "Reading", "children":[
+{"name": "The master algorithm", "priority":2},
+{"name": "Programming interviews", "priority":3},
+{"name": "From big data to big profits", "priority":4}]},
+{"name": "Courses", "children":[
+{"name": "Coursera", "children":[
+{"name": "Cloud computing", "priority":3},
+{"name": "Data science?", "priority":9},
+{"name": "Computer science?", "priority":9},
+{"name": "Big data?", "priority":9}]},
+{"name": "Stanford", "children":[
+{"name": "RNN course", "priority":4}]},
+{"name": "Big data university", "children":[
+{"name": "Scala and Spark", "priority":3},
+{"name": "Large Scale Analytics with R", "priority":9}]}]},
+{"name": "Research", "children":[
+{"name": "Backlog (fortnightly)", "children":[
+{"name": "Large scale recommender", "priority":2},
+{"name": "Shell scripting", "priority":3},
+{"name": "Six sigma", "priority":4},
+{"name": "Graphs (e.g. Gephi, etc.)", "priority":5},
+{"name": "See backlog for more", "priority":9}]},
+{"name": "Fortnightly web research", "priority":1},
+{"name": "Fortnightly Python practice (see backlog)", "priority":2}]}]},
+{"name": "Networking", "children":[
+{"name": "Meetups", "children":[
+{"name": "Sydney Data Science Breakfast", "priority":1},
+{"name": "Data Science Sydney", "priority":2},
+{"name": "SURF", "priority":2},
+{"name": "...", "priority":3}]},
+{"name": "Growth and maintenance", "children":[
+{"name": "Meeting new contacts", "priority":2},
+{"name": "Keeping in touch with contacts", "priority":2}]},
+{"name": "Online presence", "children":[
+{"name": "Fortnightly twitter posts", "priority":1},
+{"name": "Regular website updates", "priority":2}]}]},
+{"name": "Projects", "children":[
+{"name": "Self-run", "children":[
+{"name": "Ultimate guitar", "children":[
+{"name": "Wrap up analyis 2", "priority":1},
+{"name": "Do something for analysis 3", "priority":1},
+{"name": "Publish", "priority":1}]},
+{"name": "About me viz for website", "priority":3},
+{"name": "Set up repository for ML code", "priority":4},
+{"name": "Deep learning", "children":[
+{"name": "Fit POC CV model", "priority":5},
+{"name": "Check out Spectrum data", "priority":5},
+{"name": "Fit model and publish", "priority":5}]}]},
+{"name": "Getting involved", "children":[
+{"name": "RSVP DS liaison", "priority":1},
+{"name": "Homelessness viz", "priority":3},
+{"name": "Analyst First", "priority":9},
+{"name": "eHealth privacy consulting", "priority":4}]}]}]}
